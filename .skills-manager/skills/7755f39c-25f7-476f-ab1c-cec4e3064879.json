@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7755f39c-25f7-476f-ab1c-cec4e3064879",
+  "path": "academic-research-skills-main",
+  "path_key": "academic-research-skills-main",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
