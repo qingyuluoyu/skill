@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "38d78060-ac40-41ee-9ac8-e24a1b75920c",
+  "path": "html-ppt制作",
+  "path_key": "html-ppt制作",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/lewislulu/html-ppt-skill",
+    "subpath": null,
+    "branch": null
+  }
+}
